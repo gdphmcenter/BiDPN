@@ -8,4 +8,4 @@
 - The folder named "data" is used to store the data files of the study.
 - the folder named "features" is used to store the features extracted by the feature extractor and the labels.
 - the folder named "image" is used to store the images of the extracted features.
-- the folder named "model" is used to store the model information of each eooch.
+- the folder named "model" is used to store the model information of each eopch.
